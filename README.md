@@ -54,9 +54,8 @@ heroku create nomedoapp
 git push heroku master
 ````
 
-O Deploy pode ser acessado nesse link: [https://dry-atoll-87491.herokuapp.com/](https://dry-atoll-87491.herokuapp.com/) 
+O Deploy pode ser acessado nesse link: [https://frexco-hercilio-devops.herokuapp.com/](https://frexco-hercilio-devops.herokuapp.com/) 
 
-> Obs: O link ficou sem o nome do app, pois como estava aprendendo, o heroku gera um nome aleatório, resolvi manter o mesmo para concluir o teste.
 
 ---
 
